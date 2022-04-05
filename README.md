@@ -1,1 +1,1 @@
-# Covid 19 App With React.JS
+# Web Animation API With React.JS
