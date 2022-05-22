@@ -1,1 +1,1 @@
-# Web Animation API With React.JS
+# React.JS
