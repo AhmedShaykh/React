@@ -1,4 +1,5 @@
 import './App.css';
+import AxiosAPI from './Components/AxiosAPI';
 import UseRef from './Components/UseRef';
 
 function App() {
@@ -6,9 +7,10 @@ function App() {
     <div className="App">
       <header className="App-header">
         <h1>
-          React UseRef & Axios 
+          React UseRef & Axios
         </h1>
         <UseRef />
+        <AxiosAPI />
       </header>
     </div>
   );
