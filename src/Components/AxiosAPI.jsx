@@ -17,7 +17,7 @@ function AxiosAPI() {
 
   return (
     <div>
-      <h1>Axios API</h1>
+      <h1>Axios Get API Call</h1>
       <ol>
         {post.map((postObj, index) => {
           return (
