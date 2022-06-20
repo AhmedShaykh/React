@@ -1,6 +1,7 @@
 import './App.css';
 import UseRef from './Components/UseRef';
 import AxiosAPI from './Components/AxiosAPI';
+import AxiosAsync from './Components/AxiosAsync';
 
 function App() {
   return (
@@ -11,6 +12,7 @@ function App() {
         </h1>
         <UseRef />
         <AxiosAPI />
+        <AxiosAsync />
       </header>
     </div>
   );
